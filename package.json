@@ -15,7 +15,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "node-fetch": "^2.6.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "unsplash-js": "^6.0.0"
   },
   "devDependencies": {
